@@ -2,6 +2,6 @@
 
 void main();
 {
-printf("Hello student\n");
-printf("How are you?"\n);
+printf("Hello there!"\n);
+printf("Fare thee well!");
 }
